@@ -10,6 +10,12 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Message());
+        }
+
+        public static string Message()
+        {
+            return "Hello World";
         }
     }
 }
