@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             
             Console.WriteLine(Message());
+            Console.WriteLine(Message());
         }
 
 
